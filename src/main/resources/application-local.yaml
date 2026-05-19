@@ -2,7 +2,7 @@ spring:
   datasource:
     url: jdbc:postgresql://localhost:5432/instituto
     username: postgres
-    password: root
+    password: secreta
     driver-class-name: org.postgresql.Driver
 
   jpa:
